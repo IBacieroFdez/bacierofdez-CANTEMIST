@@ -1,0 +1,7 @@
+T1	MORFOLOGIA_NEOPLASIA 603 629	afectación retroperitoneal
+T2	MORFOLOGIA_NEOPLASIA 924 942	afectación pélvica
+T3	MORFOLOGIA_NEOPLASIA 1001 1008	tumoral
+T4	MORFOLOGIA_NEOPLASIA 1022 1070	sarcoma pélvico con diseminación retroperitoneal
+T5	MORFOLOGIA_NEOPLASIA 1072 1079	linfoma
+T6	MORFOLOGIA_NEOPLASIA 1082 1097	tumor urotelial
+T7	MORFOLOGIA_NEOPLASIA 1149 1195	diseminación de un tumor de origen desconocido

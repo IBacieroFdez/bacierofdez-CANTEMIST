@@ -1,0 +1,8 @@
+T1	MORFOLOGIA_NEOPLASIA 337 347	malignidad
+T2	MORFOLOGIA_NEOPLASIA 374 400	adenopatía supraclavicular
+T3	MORFOLOGIA_NEOPLASIA 1056 1091	lesión nodular en el polo posterior
+T4	MORFOLOGIA_NEOPLASIA 1663 1673	metástasis
+T5	MORFOLOGIA_NEOPLASIA 1912 1929	nódulo subcutáneo
+T6	MORFOLOGIA_NEOPLASIA 1951 1987	metástasis por carcinoma epidermoide
+T7	MORFOLOGIA_NEOPLASIA 2029 2050	Carcinoma epidermoide
+T8	MORFOLOGIA_NEOPLASIA 2429 2449	infiltración medular

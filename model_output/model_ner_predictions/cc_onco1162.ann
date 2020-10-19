@@ -1,0 +1,7 @@
+T1	MORFOLOGIA_NEOPLASIA 98 116	tumoración benigna
+T2	MORFOLOGIA_NEOPLASIA 267 283	carcinoma seroso
+T3	MORFOLOGIA_NEOPLASIA 1954 1984	Carcinoma seroso de alto grado
+T4	MORFOLOGIA_NEOPLASIA 2406 2427	progresión peritoneal
+T5	MORFOLOGIA_NEOPLASIA 2481 2524	implantes en el peritoneo + linfadenectomía
+T6	MORFOLOGIA_NEOPLASIA 2876 2887	metastásica
+T7	MORFOLOGIA_NEOPLASIA 2905 2919	carcinomatosis

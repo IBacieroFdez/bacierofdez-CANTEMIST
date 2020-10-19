@@ -1,0 +1,11 @@
+T1	MORFOLOGIA_NEOPLASIA 2323 2359	nódulos subcentimétricos bilaterales
+T2	MORFOLOGIA_NEOPLASIA 2652 2699	lesiones nodulares subcentimétricas bilaterales
+T3	MORFOLOGIA_NEOPLASIA 2764 2782	lesión milimétrica
+T4	MORFOLOGIA_NEOPLASIA 2796 2806	malignidad
+T5	MORFOLOGIA_NEOPLASIA 3152 3184	carcinoma de células no pequeñas
+T6	MORFOLOGIA_NEOPLASIA 3190 3204	adenocarcinoma
+T7	MORFOLOGIA_NEOPLASIA 3210 3229	células neoplásicas
+T8	MORFOLOGIA_NEOPLASIA 3435 3449	adenocarcinoma
+T9	MORFOLOGIA_NEOPLASIA 4657 4676	afectación pulmonar
+T10	MORFOLOGIA_NEOPLASIA 4677 4688	metastásica
+T11	MORFOLOGIA_NEOPLASIA 4810 4828	lesiones hepáticas

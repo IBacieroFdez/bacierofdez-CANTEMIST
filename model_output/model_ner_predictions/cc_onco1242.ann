@@ -1,0 +1,16 @@
+T1	MORFOLOGIA_NEOPLASIA 311 327	melanoma maligno
+T2	MORFOLOGIA_NEOPLASIA 738 748	tumoración
+T3	MORFOLOGIA_NEOPLASIA 1092 1125	masa en la región supraclavicular
+T4	MORFOLOGIA_NEOPLASIA 1284 1304	masa supraclavicular
+T5	MORFOLOGIA_NEOPLASIA 1333 1359	células tumorales malignas
+T6	MORFOLOGIA_NEOPLASIA 1361 1389	neoplasia de células grandes
+T7	MORFOLOGIA_NEOPLASIA 1559 1581	lesión supraclavicular
+T8	MORFOLOGIA_NEOPLASIA 1627 1657	metástasis de melanoma maligno
+T9	MORFOLOGIA_NEOPLASIA 2021 2032	nódulo de 4
+T10	MORFOLOGIA_NEOPLASIA 2115 2134	progresión pulmonar
+T11	MORFOLOGIA_NEOPLASIA 2405 2415	metástasis
+T12	MORFOLOGIA_NEOPLASIA 2517 2536	progresión pulmonar
+T13	MORFOLOGIA_NEOPLASIA 3853 3915	lesiones similares en los labios mayores y menores de la vulva
+T14	MORFOLOGIA_NEOPLASIA 4831 4848	lesiones cutáneas
+T15	MORFOLOGIA_NEOPLASIA 5044 5063	lesiones cerebrales
+T16	MORFOLOGIA_NEOPLASIA 6017 6036	progresión cerebral

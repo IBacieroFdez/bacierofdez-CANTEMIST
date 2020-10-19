@@ -1,0 +1,5 @@
+T1	MORFOLOGIA_NEOPLASIA 386 396	malignidad
+T2	MORFOLOGIA_NEOPLASIA 1018 1028	metástasis
+T3	MORFOLOGIA_NEOPLASIA 1556 1578	enfermedad a distancia
+T4	MORFOLOGIA_NEOPLASIA 2649 2676	enfermedad a nivel pulmonar
+T5	MORFOLOGIA_NEOPLASIA 2699 2770	carcinoma indiferenciado de tiroides (anaplásico de patrón sarcomatoide
